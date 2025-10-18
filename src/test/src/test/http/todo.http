@@ -1,0 +1,5 @@
+### Get all todos
+GET http://localhost:8080/todos
+
+### Get one todo
+GET http://localhost:8080/todos/1

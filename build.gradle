@@ -29,6 +29,9 @@ dependencies {
     implementation("org.liquibase:liquibase-core")
     runtimeOnly("org.postgresql:postgresql:42.7.3")
     implementation 'org.springframework.boot:spring-boot-starter-web'
+    // Lombok (pour @RequiredArgsConstructor)
+    compileOnly 'org.projectlombok:lombok'
+    annotationProcessor 'org.projectlombok:lombok'
 }
 
 tasks.named('test') {

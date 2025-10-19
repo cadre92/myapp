@@ -1,3 +1,3 @@
-# Nouvelle section ajoutée dans master
-- ligne X
+# Nouvelle section fusionnée
+- ligne A
 - ligne Y

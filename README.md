@@ -1,3 +1,3 @@
-# Section A (master)
-- ligne 1 (master)
+# Section A (fusion)
+- ligne 1 (feature)
 - ligne 2 (master)

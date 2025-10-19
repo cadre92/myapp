@@ -1,3 +1,3 @@
-# Nouvelle section fusionnée
-- ligne A
-- ligne Y
+# Section A (feature)
+- ligne 1 (feature)
+- ligne 2 (feature)
